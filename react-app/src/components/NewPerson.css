@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+.Img{
+  height: 180px;
+  width: 290px;
+}
+.Vid{
+  margin-left: 27%;
+  height: 280px;
+  width: 390px;
+}
+.App-header {
+  background-color: #222;
+  height: 70px;
+  padding: 5px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.formContainer {
+  padding-left: 500px;
+  padding-right: 500px;
+
+}
