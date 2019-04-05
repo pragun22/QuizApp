@@ -1,7 +1,7 @@
 # Welocme to QuizApp!
 
 # Introduction to the project:
-I have to written a Go server that implements REST API and interacts with the database at the backend. The front end is a React application that is an interactive quiz.
+Golang has been used for database server following REST API . The front end is made through Reactjs.
 
 Owner: Pragun Saxena
 
